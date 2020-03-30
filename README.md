@@ -25,7 +25,6 @@
 
 ## Lists
 
----
 ### Lists - Purpose
 <br>
 
