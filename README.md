@@ -214,7 +214,6 @@
 	> 2 blue
 	```
 
----
 ## Dictionary & List Review
 
 - **What are _dictionaries_ similar to in JS?**
@@ -235,10 +234,9 @@
 
 - **What is a way to remove an item from the front of a _list_?**
 
----
+
 ## List Comprehensions
 
----
 ### List Comprehensions
 <br>
 
@@ -320,7 +318,6 @@
 	> [4, 16, 36, 64, 100]
 	```
 
-
 ---
 ### List Comprehensions - Filtering
 
@@ -363,7 +360,6 @@
 ---
 ## Tuples
 
----
 ### Tuples - Purpose
 <br>
 
@@ -468,7 +464,8 @@
 	```
 	A tuple of variables on the left-side of the assignment operator and a tuple of values on the right is all it takes.
 
----
+## Ranges
+
 ### Ranges - Purpose
 <br>
 
