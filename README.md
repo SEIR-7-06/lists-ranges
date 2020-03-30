@@ -1,6 +1,5 @@
 # Python Containers and Ranges
 
----
 ## Learning Objectives
 <p>Students will be able to:</p>
 
