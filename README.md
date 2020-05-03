@@ -1,9 +1,6 @@
 # Python Containers and Ranges
 
----
 ## Learning Objectives
-<br>
-
 <p>Students will be able to:</p>
 
 - Use _lists_, _tuples_  as containers for data
@@ -16,8 +13,6 @@
 
 
 ### General Purpose Containers
-<br>
-
 - As you know by now, applications frequently need to maintain collections of data within a _container_ data type.
 
 - **What did we use in JS to hold collections of data?**
@@ -26,9 +21,10 @@
 	- **lists**
 	- **tuples**
 
+<br>
+
 ## Lists
 
----
 ### Lists - Purpose
 <br>
 
@@ -218,7 +214,6 @@
 	> 2 blue
 	```
 
----
 ## Dictionary & List Review
 
 - **What are _dictionaries_ similar to in JS?**
@@ -239,10 +234,9 @@
 
 - **What is a way to remove an item from the front of a _list_?**
 
----
+
 ## List Comprehensions
 
----
 ### List Comprehensions
 <br>
 
@@ -324,7 +318,6 @@
 	> [4, 16, 36, 64, 100]
 	```
 
-
 ---
 ### List Comprehensions - Filtering
 
@@ -367,7 +360,6 @@
 ---
 ## Tuples
 
----
 ### Tuples - Purpose
 <br>
 
@@ -472,7 +464,8 @@
 	```
 	A tuple of variables on the left-side of the assignment operator and a tuple of values on the right is all it takes.
 
----
+## Ranges
+
 ### Ranges - Purpose
 <br>
 
