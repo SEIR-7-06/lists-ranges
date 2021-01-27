@@ -138,3 +138,58 @@ first_name, second_name, third_name, fourth_name = names
 
 # print(second_person)
 # print(second_name)
+
+# Iterating on Tuple
+# for name in names:
+#   print(name)
+
+# Iterating on Tuple with index
+# for idx, name in enumerate(names):
+#   print(f"{idx} {name}")
+
+
+# Single Element Tuple
+# Tuples are defined by the trailing comma
+# username = 'johndoe' # => type of string
+username = 'johndoe', # => type of tuple
+print(type(username))
+
+
+# ----------------------------- RANGES
+
+# Substitute enumerate with range for iteration
+# for num in range(5): # => [0, 1, 2, 3, 4]
+#   print(num)
+
+
+# Range of even numbers from 0 10
+# for even_num in range(1, 100, 2):
+#   print(even_num)
+
+
+nums_to_50 = list(range(51))
+
+# print(nums_to_50)
+
+# Iterate from end to beginning
+# for num in range(10, 0, -1):
+#   print(num)
+
+
+# ------------------------- SLICES
+
+long_name = 'Alexandria jksbdf;jkadf; sokdf89787()*^&^&^R'
+short_name = long_name[0:4]
+
+fifty = 50
+# five = fifty[0:1]
+
+# print(five)
+
+
+animals = ['cat', 'dog', 'pig']
+animals_copy = animals[:3]
+animals_copy.append('cricket')
+
+print(animals_copy)
+print(animals)
